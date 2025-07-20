@@ -22,6 +22,10 @@ author_profile: false
   <small><ins>Haocun Yu</ins>*, Lee McCuller*, Maggie Tse, Nutsinee Kijbunchoo, Lisa Barsotti, N. Mavalvala and other members of the LIGO Scientific Collaboration</small>  <br>  
   <small>**Nature** 583, 43-47 (2020)</small>
 
+* [Frequency-dependent squeezing for advanced LIGO](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.171102) <br>
+  <small> Lee McCuller, Chris Whittle, Dhruva Ganapathy, Kentaro Komori, Maggie Tse, Alvaro Fernandez-Galiana, Lisa Barsotti, Peter Fritschel, Myron MacInnis, Fabrice Matichard, Kenneth Mason, Nergis Mavalvala, Richard Mittleman, Haocun Yu, Mike E Zucker, Matthew Evans</small>  <br> 
+  <small>**Phys. Rev. Lett.** 124, 171102 (2020)</small>
+
 * [Low phase noise squeezed vacuum for future generation gravitational wave detectors](https://iopscience.iop.org/article/10.1088/1361-6382/aba4bb) <br> 
   <small>Nutsinee Kijbunchoo*, Terry McRae, Daniel Sigg, Sheila Dwyer, <ins>Haocun Yu</ins>, Lee McCuller, Lisa Barsotti, et al.</small> <br> 
   <small>**Class. Quantum Grav.** 37, 185014 (2020)</small>
@@ -41,8 +45,6 @@ author_profile: false
 * [Observation of gravitational waves from a binary black hole merger](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102) <br> 
   <small>LIGO Scientific Collaboration and Virgo Collaboration including Haocun Yu</small> <br> 
   <small>**Phys. Rev. Lett.** 116, 061102 (2016)</small>
-
-
 
 
 
