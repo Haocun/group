@@ -9,6 +9,9 @@ We are a family experimental physicists — a hybrid of optical engineers, compu
 we're always looking for passionate and motivated undergraduates, graduate students, and postdocs to be part of the adventure.
 Join us on our journey into the world of quantum optics!
 
+
+Contact Prof. Haocun Yu: haocunyu@mit.edu
+
 # PhD and Postdocs
 We value enthusiasm, creativity, open-minded and collaborative teamwork, and above all, kindness and integrity. Applicants from all relevant fields are welcome, but expertise in the following areas would be considered a bonus:
 
