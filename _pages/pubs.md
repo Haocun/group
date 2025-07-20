@@ -1,7 +1,7 @@
 ---
-layout: single
 title: "Publications"
 permalink: /pubs/
+layout: single
 author_profile: false
 ---
 
