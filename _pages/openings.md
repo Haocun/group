@@ -1,9 +1,11 @@
 ---
 permalink: /openings/
 title: "Open Positions"
-layout: single
+layout: splash
 author_profile: false
 ---
+
+# Open Positions
 
 We are a family experimental physicists — a hybrid of optical engineers, computer scientists, mathematicians, architects, electricians, repair technicians, etc.
 
