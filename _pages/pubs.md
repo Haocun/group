@@ -5,7 +5,7 @@ permalink: /pubs/
 author_profile: false
 ---
 
-# Highlighted Publications
+## Highlighted Publications
 * [Experimental observation of Earth's rotation with quantum entanglement](https://www.science.org/doi/10.1126/sciadv.ado0215)  <br>  Raffaele Silvestri, <ins>Haocun Yu</ins>\*, Teodor Stromberg, Christopher Hilweg, Robert W. Peterson, Philip Walther\* <br>  **Science Advances**10, eado0215 (2024)
 * [Photon counting for axion interferometry](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.095042)  <br> <ins>Haocun Yu</ins>\*, Ohkyung Kwon, Devendra K. Namburi, Robert H. Hadfield, Hartmut Grote, and Denis Martynov <br> **Phys. Rev. D** 109, 095042 (2024)
 *  [LIGO's quantum response to squeezed states](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.062006) <br> Lee McCuller\*, Sheila E. Dwyer, Anna C. Green, <ins>Haocun Yu</ins>, Lisa Barsotti, et al. <br> **Phys. Rev. D** 104, 062006 (2021)
