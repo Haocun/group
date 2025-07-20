@@ -1,7 +1,7 @@
 ---
 permalink: /openings/
 title: "Open Positions"
-layout: single
+#layout: single
 author_profile: false
 ---
 
