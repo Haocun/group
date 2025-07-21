@@ -16,8 +16,8 @@ header:
 
 intro:
   - excerpt: |
-      <h2 style="font-size:2.2rem;">Overview</h2>
-      <p style="font-size:1.2rem;">
+      <h2 style="font-size:2.0rem;">Overview</h2>
+      <p style="font-size:1.0rem;">
       We develop and apply quantum optical technologies for precision measurements.<br>
       These tools advance quantum information science and open new frontiers in testing the foundations of physics.
       </p>
@@ -40,8 +40,8 @@ intro:
 #    title: "Placeholder 3"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row1:
-  - image_path: /assets/images/gw_feat2.jpg
-    #alt: "placeholder image 2"
+  - image_path: /assets/images/g.jpg
+    alt: "placeholder image 1"
     title: "Quantum Information"
     excerpt: ''
     url: "#test-link"
@@ -49,10 +49,10 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/gw2.jpg
+  - image_path: /assets/images/gw_feat2.jpg
     alt: "placeholder image 2"
-    title: "Fundamental physics"
-    excerpt: ''
+    title: "Quantum Sensing for Fundamental Physics"
+    excerpt: 'From enhancing the sensitivity of gravitational-wave detectors to probing the interface between quantum mechanics and gravity, and extending to the search for dark matter, quantum sensing plays a crucial role in unlocking new frontiers in fundamental physics. These approaches employ unique quantum tools—such as squeezing, entanglement, and photon counting—to achieve unprecedented instrumental sensitivity, paving the way toward addressing fundamental challenges, such as reconciling quantum mechanics with general relativity.'
     url: "#test-link"
     btn_label: "Learn More"
     btn_class: "btn--primary"
