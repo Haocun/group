@@ -43,7 +43,7 @@ intro:
 feature_row1:
   - image_path: /assets/images/qm.jpg
     alt: "placeholder image 1"
-    title: "Quantum Information"
+    title: "Quantum State Engineering and Quantum Information"
     excerpt: 'We develop future quantum technologies based on the quantum states of light. Our work focuses on generating squeezed states, entangled photons, and non-Gaussian states for near-term applications in quantum information processing and learning, with the aim of breaking established limits and demonstrating quantum advantages in the communication and sensing of fields and forces.'
     # url: "#test-link"
     # btn_label: "Learn More"
