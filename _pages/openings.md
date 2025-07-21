@@ -16,7 +16,7 @@ Join us on our journey into the world of quantum optics!
 Contact Prof. Haocun Yu: haocunyu@mit.edu
 
 ## PhD and Postdocs
-We value enthusiasm, open-minded creativity, and collaborative teamwork—and above all, kindness and integrity. Applicants from all relevant backgrounds are welcome. Experience in any of the following areas would be considered a strong plus:
+We value enthusiasm, open-minded creativity, and collaborative teamwork—and above all, kindness and integrity. Applicants from all relevant backgrounds are welcome. Experience in any of the following areas would be preferred:
 
 * Quantum optics and quantum information
 * Hands-on experience in infrared and visible optics
