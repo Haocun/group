@@ -17,7 +17,7 @@ feature_row1:
      #title: "Placeholder 3"
      excerpt: ""
 
-feature_row1:
+feature_row2:
    - image_path: /assets/images/mit_sqz1.jpg
      #title: "Quantum information"
      excerpt: ""
@@ -36,6 +36,6 @@ Photos from the Quantum Information Science and Quantum Computation Lab at the U
 
 {% include feature_row1 %}
 
-Photos from the MIT LIGO Lab
+Photos from the LIGO Lab at MIT
 
 {% include feature_row2 %}
