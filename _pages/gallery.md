@@ -37,31 +37,31 @@ author_profile: false
 </p>
 
   <figure>
-    <img src="/assets/images/vienna_lab1.jpg" alt="MIT LIGO Lab optical table">
+    <img src="assets/images/vienna_lab1.jpg">
     <figcaption>MIT LIGO Lab: Optical table with suspended mirrors</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/vienna_lab3.jpg" alt="MIT LIGO Lab cleanroom">
+    <img src="assets/images/vienna_lab3.jpg">
   </figure>
 
   <figure>
-    <img src="/assets/images/vienna_lab4.jpg" alt="Vienna quantum optics experiment">
+    <img src="assets/images/vienna_lab4.jpg">
     <figcaption>Quantum optics experiment at University of Vienna</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/mit_sqz1.jpg" alt="Photon entanglement setup">
+    <img src="assets/images/mit_sqz1.jpg">
     <figcaption>Entangled photon source setup</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/vienna3.jpg" alt="Laser system in Vienna lab">
+    <img src="assets/images/vienna3.jpg" >
     <figcaption>Laser system in Vienna quantum lab</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/ligo3.jpg" alt="Interferometer electronics">
+    <img src="assets/images/ligo3.jpg">
     <figcaption>Electronics rack for LIGO interferometer controls</figcaption>
   </figure>
 
