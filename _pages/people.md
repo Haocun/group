@@ -15,10 +15,14 @@ feature_row1:
      title: "Haocun Yu"
      excerpt: |
         <span style="color:grey;">
-        Assistant Professor, 2025- 
+        Assistant Professor, 2025- <br>
         </span>
         Marie-Curie Postdoctoral Fellow, Vienna <br>
-        Ph.D., MIT
+        Ph.D., MIT <br>
+        BSc., Imperial College London <br>
+        <i class="fas fa-envelope"></i> <a href="mailto:your.email@example.com">your.email@example.com</a>
+
+
         
 
 feature_row2:
@@ -41,5 +45,5 @@ feature_row2:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" %}
 
