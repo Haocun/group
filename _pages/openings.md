@@ -6,11 +6,9 @@ author_profile: false
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.35"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/utk.jpg
 ---
-
-# Open Positions
 
 We are a family of experimental physicists — a hybrid of optical engineers, computer scientists, mathematicians, architects, electricians, repair technicians, etc.
 
