@@ -6,7 +6,7 @@ author_profile: false
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/utk.jpg
 
 
@@ -48,14 +48,14 @@ feature_row3:
 
 ---
 
-## Photos from the Quantum Information Science and Quantum Computation Lab at the University of Vienna
+### Photos from the Quantum Information Science and Quantum Computation Lab at the University of Vienna
 
 {% include feature_row id="feature_row1" %}
 
-## Photos from the LIGO Lab at MIT
+### Photos from the LIGO Lab at MIT
 
 {% include feature_row id="feature_row2" %}
 
-## Photos from LIGO Observatory
+### Photos from LIGO Observatory
 
 {% include feature_row id="feature_row3" type="full"%}
