@@ -11,7 +11,7 @@ header:
 
 feature_row1:
    - image_path: /assets/images/.jpg
-     #image_caption: ""
+     alt: "image"
      title: "Haocun Yu"
      excerpt: |
         <span style="color:grey;">
@@ -20,7 +20,7 @@ feature_row1:
         Marie-Curie Postdoctoral Fellow, Vienna <br>
         Ph.D., MIT <br>
         BSc., Imperial College London <br>
-        <i class="fas fa-envelope"></i> <a href="mailto:your.email@example.com">your.email@example.com</a>
+        <i class="fas fa-envelope"></i> <a href="mailto:haocunyu@mit.edu">haocunyu@mit.edu</a>
 
 
         
