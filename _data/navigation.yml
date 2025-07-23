@@ -10,7 +10,7 @@ main:
     url: /news/
   - title: "Gallery"
     url: /gallery/
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
   - title: "Openings"
     url: /openings/
