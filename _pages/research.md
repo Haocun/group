@@ -6,8 +6,8 @@ author_profile: false
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/research.jpeg
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/sunrise.jpg
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"

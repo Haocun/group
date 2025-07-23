@@ -14,13 +14,13 @@ feature_row1:
      alt: "image"
      title: "Haocun Yu"
      excerpt: |
-        <span style="color:grey;">
-        Assistant Professor, 2025- <br>
+        <span style="color:grey; font-size:1.1rem;">
+        Assistant Professor, 2026- <br>
         </span>
         Marie-Curie Postdoctoral Fellow, Vienna <br>
         Ph.D., MIT <br>
         BSc., Imperial College London <br>
-        <i class="fas fa-envelope"></i> <a href="mailto:haocunyu@mit.edu">haocunyu@mit.edu</a>
+        <i class="fas fa-envelope"></i> <a href="mailto:haocunyu@utk.edu">haocunyu@utk.edu</a>
 
 
         

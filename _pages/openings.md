@@ -27,7 +27,7 @@ We value enthusiasm, open-minded creativity, and collaborative teamwork—and ab
 * System control techniques and electronics
 * Vacuum system operation and cryogenics 
 
-Please email [Haocun](mailto:haocunyu@mit.edu) with your CV, contact information of at least two references, and a brief statement on your past experiences and why you'd like to work with us. It would be helpful if your advisor could also reach out.
+Please email [Haocun](mailto:haocunyu@utk.edu) with your CV, contact information of at least two references, and a brief statement on your past experiences and why you'd like to work with us. It would be helpful if your advisor could also reach out.
 
 ## Undergraduates
-If you are a current undergraduate interested in joining with us, please email [Haocun](mailto:haocunyu@mit.edu) with your most recent transcript to discuss potential projects.
+If you are a current undergraduate interested in joining with us, please email [Haocun](mailto:haocunyu@utk.edu) with your most recent transcript to discuss potential projects.
