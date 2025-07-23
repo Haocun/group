@@ -12,7 +12,7 @@ header:
 
 feature_row1:
    - image_path: /assets/images/vienna_lab3.jpg
-     alt: "Optical setup"
+     image_caption: "Optical setup"
      #title: "Quantum information"
      excerpt: ""
    - image_path: /assets/images/vienna_lab5.jpg
@@ -22,12 +22,12 @@ feature_row1:
      excerpt: ""
    - image_path: /assets/images/vienna_lab4.jpg
      alt: "Engtangled photon source"
-     title: "Engtangled photon source"
+     image_caption: "Engtangled photon source"
      excerpt: ""
 
 feature_row2:
    - image_path: /assets/images/mit_green lab.jpg
-     alt: "In chamber"
+     image_caption: "In chamber"
      #title: "Quantum information"
      excerpt: ""
    - image_path: /assets/images/mit_sqz2.jpg
@@ -43,19 +43,19 @@ feature_row2:
 feature_row3:
    - image_path: /assets/images/LIGO_hanford_sqz.jpg
      alt: "Table for preparing squeezing at LIGO Hanford Observatory"
-     title: "Table for preparing squeezing"
+     image_caption: "Table for preparing squeezing"
      excerpt: ""
 
 ---
 
-Photos from the Quantum Information Science and Quantum Computation Lab at the University of Vienna
+## Photos from the Quantum Information Science and Quantum Computation Lab at the University of Vienna
 
 {% include feature_row id="feature_row1" %}
 
-Photos from the LIGO Lab at MIT
+## Photos from the LIGO Lab at MIT
 
 {% include feature_row id="feature_row2" %}
 
-Photos from LIGO Observatory
+## Photos from LIGO Observatory
 
 {% include feature_row id="feature_row3" type="full"%}
