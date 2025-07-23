@@ -3,7 +3,24 @@ title: "Gallery"
 permalink: /gallery/
 layout: splash
 author_profile: false
+
+
+feature_row:
+   - image_path: /assets/images/vienna_lab1.jpg
+     #alt: "placeholder image 1"
+     title: "Quantum information"
+     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+   - image_path: /assets/images/gw_feat.jpg
+     image_caption: "Image 1"
+     alt: "placeholder image 2"
+     title: "Fundamental physics"
+     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+     title: "Placeholder 3"
+     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
+{% include feature_row %}
 
 <style>
 .gallery-grid {
@@ -46,22 +63,22 @@ author_profile: false
   </figure>
 
   <figure>
-    <img src="assets/images/vienna_lab4.jpg">
+    <img src="/assets/images/vienna_lab4.jpg">
     <figcaption>Quantum optics experiment at University of Vienna</figcaption>
   </figure>
 
   <figure>
-    <img src="assets/images/mit_sqz1.jpg">
+    <img src="/assets/images/mit_sqz1.jpg">
     <figcaption>Squeezer</figcaption>
   </figure>
 
   <figure>
-    <img src="assets/images/vienna3.jpg" >
+    <img src="/assets/images/vienna3.jpg" >
     <figcaption>Laser system in Vienna quantum lab</figcaption>
   </figure>
 
   <figure>
-    <img src="assets/images/ligo3.jpg">
+    <img src="/assets/images/ligo3.jpg">
     <figcaption>Electronics rack for LIGO interferometer controls</figcaption>
   </figure>
 
