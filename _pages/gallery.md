@@ -6,17 +6,17 @@ author_profile: false
 
 
 feature_row1:
-   - image_path: /assets/images/vienna_lab1.jpg
-     alt: "placeholder image 1"
+   - image_path: /assets/images/vienna_lab3.jpg
+     alt: "Optical setup"
      #title: "Quantum information"
      excerpt: ""
-   - image_path: /assets/images/vienna_lab3.jpg
+   - image_path: /assets/images/vienna_lab5.jpg
      alt: "placeholder image 1"
-     image_caption: "Image 1"
+     image_caption: "Photon imaging"
      #title: "Fundamental physics"
      excerpt: ""
    - image_path: /assets/images/vienna_lab4.jpg
-     alt: "placeholder image 1"
+     alt: "Engtangled photon source"
      #title: "Placeholder 3"
      excerpt: ""
 
@@ -25,13 +25,13 @@ feature_row2:
      alt: "placeholder image 1"
      #title: "Quantum information"
      excerpt: ""
-   - image_path: /assets/images/vienna_lab3.jpg
-     alt: "placeholder image 1"
-     image_caption: "Image 1"
+   - image_path: /assets/images/mit_sqz2.jpg
+     alt: "Squeezer"
+     image_caption: "Squeezer"
      #title: "Fundamental physics"
      excerpt: ""
-   - image_path: /assets/images/vienna_lab4.jpg
-     alt: "placeholder image 1"
+   - image_path: /assets/images/vienna_lab10.jpg
+     alt: "placeholder image"
      #title: "Placeholder 3"
      excerpt: ""
 
