@@ -37,12 +37,12 @@ author_profile: false
 </p>
 
   <figure>
-    <img src="assets/images/vienna_lab1.jpg">
+    <img src="/assets/images/vienna_lab1.jpg">
     <figcaption>Photon source</figcaption>
   </figure>
 
   <figure>
-    <img src="assets/images/vienna_lab3.jpg">
+    <img src="/assets/images/vienna_lab3.jpg">
   </figure>
 
   <figure>
