@@ -7,7 +7,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/utk.jpg
+  overlay_image: /assets/images/utk2crop.jpg
 ---
 
 We are a family of experimental physicists — a hybrid of optical engineers, computer scientists, mathematicians, architects, electricians, repair technicians, etc.
