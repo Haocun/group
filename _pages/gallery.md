@@ -4,6 +4,11 @@ permalink: /gallery/
 layout: splash
 author_profile: false
 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/utk.jpg
+
 
 feature_row1:
    - image_path: /assets/images/vienna_lab3.jpg
@@ -53,4 +58,4 @@ Photos from the LIGO Lab at MIT
 
 Photos from LIGO Observatory
 
-{% include feature_row id="feature_row2" type="full"%}
+{% include feature_row id="feature_row3" type="full"%}
