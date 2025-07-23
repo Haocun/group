@@ -35,10 +35,11 @@ feature_row2:
      image_caption: "Squeezer"
      #title: "Fundamental physics"
      excerpt: ""
-#    - image_path: /assets/images/mit_green lab.jpg
-#      alt: "placeholder image"
-#      #title: "Placeholder 3"
-#      excerpt: ""
+   - image_path: /assets/images/cantilever.jpg
+     #alt: "placeholder image"
+     image_caption: "Cantilevers on a chip for an optomechanical experiment"
+     #title: "Placeholder 3"
+     excerpt: ""
 
 feature_row3:
    - image_path: /assets/images/LIGO_hanford_sqz.jpg
