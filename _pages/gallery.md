@@ -38,7 +38,7 @@ author_profile: false
 
   <figure>
     <img src="assets/images/vienna_lab1.jpg">
-    <figcaption>MIT LIGO Lab: Optical table with suspended mirrors</figcaption>
+    <figcaption>Photon source</figcaption>
   </figure>
 
   <figure>
@@ -52,7 +52,7 @@ author_profile: false
 
   <figure>
     <img src="assets/images/mit_sqz1.jpg">
-    <figcaption>Entangled photon source setup</figcaption>
+    <figcaption>Squeezer</figcaption>
   </figure>
 
   <figure>
