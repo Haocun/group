@@ -9,7 +9,7 @@ feature_row1:
    - image_path: /assets/images/vienna_lab1.jpg
      title: "Quantum information"
      excerpt: ""
-   - image_path: /assets/images/vienna_lab13.jpg
+   - image_path: /assets/images/vienna_lab3.jpg
      image_caption: "Image 1"
      title: "Fundamental physics"
      excerpt: ""
@@ -21,7 +21,7 @@ feature_row2:
    - image_path: /assets/images/mit_sqz1.jpg
      title: "Quantum information"
      excerpt: ""
-   - image_path: /assets/images/vienna_lab13.jpg
+   - image_path: /assets/images/vienna_lab3.jpg
      image_caption: "Image 1"
      title: "Fundamental physics"
      excerpt: ""
