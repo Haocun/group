@@ -40,7 +40,6 @@ feature_row2:
         Join our Team!<br>
         See <a href="/openings">Openings</a> for more information.
 
-     excerpt: ""
   #  - image_path: /assets/images/nezha.png
   #    alt: "member 3"
   #    #image_caption: "member 3"
