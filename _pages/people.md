@@ -31,12 +31,12 @@ feature_row2:
      #image_caption: "member 1"
      #title: "Quantum information"
      excerpt: ""
-   - image_path: /assets/images/member 1.jpg
+   - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
      #image_caption: "member"
      #title: "Fundamental physics"
      excerpt: ""
-   - image_path: /assets/images/member 1.jpg
+   - image_path: /assets/images/nezha.png
      alt: "member 3"
      #image_caption: "member 3"
      excerpt: ""
