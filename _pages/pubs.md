@@ -7,7 +7,7 @@ author_profile: false
 
 <h2>Highlighted Publications</h2>
 
-<div class="wordwrap">More publications can be found on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+<div class="wordwrap">More publications can be found on <a href="{{https://scholar.google.com/citations?user=R5Gb_soAAAAJ&hl=en}}">Google Scholar profile</a>.</div>
 
 <ul>
   <li>
