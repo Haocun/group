@@ -36,9 +36,11 @@ feature_row2:
      #image_caption: "member"
      title: "Team Openings"
      excerpt: |
-        <strong>Postdoc/Grad/Undergrad Researcher</strong><br>
-        Join our Team!<br>
-        See <a href="/openings">Openings</a> for more information.
+      <div style="font-size: 1.0rem>
+      <strong>Postdoc/Grad/Undergrad Researcher</strong><br>
+      Join our Team!<br>
+      See <a href="/group/openings">Openings</a> for more information.
+      </div>
 
   #  - image_path: /assets/images/nezha.png
   #    alt: "member 3"
