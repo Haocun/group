@@ -313,12 +313,12 @@
     @include breakpoint($small) {
       .archive__item-teaser {
         float: inline-start;
-        width: span(3.5 of 12);
+        width: span(3.6 of 12);
       }
 
       .archive__item-body {
         float: inline-end;
-        width: span(8.5 of 12);
+        width: span(8.4 of 12);
         padding-inline-start: gutter(0.5 of 12);
         padding-inline-end: gutter(1 of 12);
       }
