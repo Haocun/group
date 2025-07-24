@@ -34,7 +34,12 @@ feature_row2:
    - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
      #image_caption: "member"
-     #title: "Fundamental physics"
+     title: "Team Openings"
+     excerpt:  |
+        <strong>Postdoc/Grad/Undergrad Researcher</strong><br>
+        Join our Team!<br>
+        See <a href="/openings">Openings</a> for more information.
+
      excerpt: ""
    - image_path: /assets/images/nezha.png
      alt: "member 3"
