@@ -26,25 +26,25 @@ feature_row1:
         
 
 feature_row2:
-   - image_path: /assets/images/member 1.jpg
-     alt: "member 1"
-     #image_caption: "member 1"
-     #title: "Quantum information"
-     excerpt: ""
+  #  - image_path: /assets/images/member 1.jpg
+  #    alt: "member 1"
+  #    #image_caption: "member 1"
+  #    #title: "Quantum information"
+  #    excerpt: ""
    - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
      #image_caption: "member"
      title: "Team Openings"
-     excerpt:  |
+     excerpt: |
         <strong>Postdoc/Grad/Undergrad Researcher</strong><br>
         Join our Team!<br>
         See <a href="/openings">Openings</a> for more information.
 
      excerpt: ""
-   - image_path: /assets/images/nezha.png
-     alt: "member 3"
-     #image_caption: "member 3"
-     excerpt: ""
+  #  - image_path: /assets/images/nezha.png
+  #    alt: "member 3"
+  #    #image_caption: "member 3"
+  #    excerpt: ""
 
 ---
 
