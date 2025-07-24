@@ -14,7 +14,7 @@ feature_row1:
      alt: "image"
      title: "Haocun Yu"
      excerpt: |
-        <span style="color:grey; font-size:1.0rem;">
+        <span style="color:grey; font-size:0.95rem;">
         Assistant Professor, 2026- <br>
         </span>
         Marie-Curie Postdoctoral Fellow, Vienna <br>
