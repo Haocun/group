@@ -10,11 +10,11 @@ header:
   overlay_image: /assets/images/utk2crop.jpg
 
 feature_row1:
-   - image_path: /assets/images/.jpg
+   - image_path: /assets/images/haocun.jpg
      alt: "image"
      title: "Haocun Yu"
      excerpt: |
-        <span style="color:grey; font-size:1.1rem;">
+        <span style="color:grey; font-size:1.0rem;">
         Assistant Professor, 2026- <br>
         </span>
         Marie-Curie Postdoctoral Fellow, Vienna <br>
