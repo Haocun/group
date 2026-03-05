@@ -16,7 +16,7 @@ we're always looking for passionate and motivated undergraduates, graduate stude
 Join us on our journey into the world of quantum optics!
 
 
-Contact Prof. Haocun Yu: haocunyu@mit.edu
+Contact Prof. Haocun Yu: haocunyu@utk.edu
 
 ## PhD and Postdocs
 We value enthusiasm, open-minded creativity, and collaborative teamwork—and above all, kindness and integrity. Applicants from all relevant backgrounds are welcome. Experience in any of the following areas would be preferred:
