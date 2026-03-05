@@ -11,6 +11,16 @@ author_profile: false
 
 <ul>
   <li>
+    <a href="https://journals.aps.org/prl/accepted/10.1103/yvlk-t1j9">
+      50-km fiber interferometer for testing gravitational signatures in quantum interference
+    </a><br>
+    <span style="font-size:0.88em;">
+      <ins>Haocun Yu</ins>*, Dorotea Macri, Thomas Morling, Eleonora Polini, Thomas B. Mieling, Peter Barrow, Begüm Kabagöz, Xinghui Yin, Piotr T. Chruściel, Christopher Hilweg, Eric Oelker, Nergis Mavalvala, Philip Walther*
+    </span><br>
+    <span style="font-size:0.88em;"><strong><em>Physical Review Letter</em></strong>, accepted, (2026)</span>
+  </li>
+	
+  <li>
     <a href="https://www.science.org/doi/10.1126/sciadv.ado0215">
       Experimental observation of Earth's rotation with quantum entanglement
     </a><br>
