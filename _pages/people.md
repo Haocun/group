@@ -26,7 +26,6 @@ feature_row1:
 feature_row2:
    - image_path: /assets/images/Matthew-Landon-Boone.webp
      alt: "member 1"
-     style: 
      #image_caption: "member 1"
      title: "(Matthew) Landon Boone"
      excerpt: |
