@@ -30,7 +30,7 @@ feature_row2:
      #image_caption: "member 1"
      title: "(Matthew) Landon Boone"
      excerpt: |
-      <div style="font-size: 1.0rem;">
+      <div style="font-size: 0.9rem;">
       <strong>Graduate Researcher</strong><br>
       Email: <a href="mailto:XMC353@vols.utk.edu">XMC353@vols.utk.edu</a>
       </div>
