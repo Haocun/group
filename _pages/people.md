@@ -26,11 +26,15 @@ feature_row1:
         
 
 feature_row2:
-  #  - image_path: /assets/images/member 1.jpg
-  #    alt: "member 1"
-  #    #image_caption: "member 1"
-  #    #title: "Quantum information"
-  #    excerpt: ""
+   - image_path: /assets/images/Matthew-Landon-Boone.webp
+     alt: "member 1"
+     #image_caption: "member 1"
+     title: "(Matthew) Landon Boone"
+     excerpt: |
+     <div style="font-size: 1.0rem;"> 
+     <strong>Graduate Researcher</strong><br>
+     Email: <a href="mailto:XMC353@vols.utk.edu">XMC353@vols.utk.edu</a> </div>
+
    - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
      #image_caption: "member"
