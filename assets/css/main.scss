@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.people-page .feature__item .archive__item-teaser img,
+.people-page .feature__item--left .archive__item-teaser img {
+  max-width: 60%;
+  height: auto;
+}
