@@ -23,11 +23,10 @@ feature_row1:
         <i class="fas fa-envelope"></i> <a href="mailto:haocunyu@utk.edu">haocunyu@utk.edu</a>
 
 
-        
-
 feature_row2:
    - image_path: /assets/images/Matthew-Landon-Boone.webp
      alt: "member 1"
+     style: 
      #image_caption: "member 1"
      title: "(Matthew) Landon Boone"
      excerpt: |
@@ -35,6 +34,13 @@ feature_row2:
       <strong>Graduate Researcher</strong><br>
       Email: <a href="mailto:XMC353@vols.utk.edu">XMC353@vols.utk.edu</a>
       </div>
+
+   img[src$="Matthew-Landon-Boone.webp"] {
+     width: 80%;
+     height: auto;
+     display: block;
+     margin: 0 auto;
+     }
 
    - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
