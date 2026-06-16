@@ -21,7 +21,8 @@ feature_row1:
         Ph.D., MIT <br>
         BSc., Imperial College London <br>
         <i class="fas fa-envelope"></i> <a href="mailto:haocunyu@utk.edu">haocunyu@utk.edu</a>
-
+        
+     <style> img[src$="Matthew-Landon-Boone.webp"] { width: 50%; height: auto;} </style>
 
 feature_row2:
    - image_path: /assets/images/Matthew-Landon-Boone.webp
