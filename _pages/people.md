@@ -3,6 +3,7 @@ permalink: /people/
 title: "People"
 layout: splash
 author_profile: false
+body_class: people-page
 
 header:
   overlay_color: "#000"
