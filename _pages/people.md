@@ -33,8 +33,7 @@ feature_row2:
       <strong>Graduate Researcher</strong><br>
       Email: <a href="mailto:XMC353@vols.utk.edu">XMC353@vols.utk.edu</a>
       </div>
-
-      
+    img[src$="/assets/images/Matthew-Landon-Boone.webp"] {width: 80%; height: auto;} 
 
    - image_path: /assets/images/Spongebob.jpg
      alt: "member 2"
